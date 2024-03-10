@@ -9,7 +9,7 @@ Able to take two parameters as of now
 - download folder as the second parameter where the videos be downloaded
 
 As this script is bit unstable take care of the following things while downloading
-- Use " " while giving paths.
+- Use " " while giving urls.
 - To stop downloading instead of Ctrl+C just close the terminal window.
 
 USAGE:
